@@ -17,11 +17,15 @@ a:hover{
 	text-decoration-color: #0097A7;
 }
 
+.center{
+  text-align: center;
+}
+
 .row {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0 100px;
+  padding: 0 10vw;
 }
 
 .card {
