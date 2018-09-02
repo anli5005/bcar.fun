@@ -28,7 +28,7 @@ a:hover{
   padding: 0 10vw;
 }
 
-.card {
+.custcard {
   width: 150px;                 /* Set width of cards */
   display: flex;                /* Children use Flexbox */
   flex-direction: column;       /* Rotate Axis */
