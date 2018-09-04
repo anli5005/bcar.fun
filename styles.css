@@ -13,6 +13,10 @@ a {
 }
 
 a:hover{
+  text-decoration: none;
+}
+
+a:hover .card-header, a:hover .main-description{
 	text-decoration: underline;
 	text-decoration-color: #0097A7;
 }
